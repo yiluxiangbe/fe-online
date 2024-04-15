@@ -7,6 +7,7 @@
 - 完成要求
   - 提交`pull request`
   - 提供页面截图
+![image](https://github.com/yiluxiangbe/fe-online/assets/123853839/59474d74-0114-441a-a0ba-25cece1276c9)
 
 ## 需求
 
